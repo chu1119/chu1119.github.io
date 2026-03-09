@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>AlvisC</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>http://blog.chuxyz.com/icon.png</icon>
+  <id>http://blog.chuxyz.com/</id>
+  <link href="http://blog.chuxyz.com/" rel="alternate"/>
+  <link href="http://blog.chuxyz.com/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, AlvisC</rights>
+  <subtitle>欢迎来到AlvisC的博客，这里记录了我的学习经历和生活经验。</subtitle>
+  <title>AlvisC's Blog</title>
+  <updated>2026-02-28T20:22:54.639Z</updated>
+  <entry>
+    <author>
+      <name>AlvisC</name>
+    </author>
+    <category term="博客建设" scheme="http://blog.chuxyz.com/categories/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E8%AE%BE/"/>
+    <category term="Hexo" scheme="http://blog.chuxyz.com/tags/Hexo/"/>
+    <category term="Butterfly" scheme="http://blog.chuxyz.com/tags/Butterfly/"/>
+    <category term="博客搭建" scheme="http://blog.chuxyz.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="技术分享" scheme="http://blog.chuxyz.com/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    <id>http://blog.chuxyz.com/2026/03/01/hello-world/</id>
+    <link href="http://blog.chuxyz.com/2026/03/01/hello-world/"/>
+    <published>2026-02-28T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js"]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-02-28T20:22:54.639Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>AlvisC</name>
+    </author>
+    <category term="博客建设" scheme="http://blog.chuxyz.com/categories/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E8%AE%BE/"/>
+    <category term="Hexo" scheme="http://blog.chuxyz.com/tags/Hexo/"/>
+    <category term="Butterfly" scheme="http://blog.chuxyz.com/tags/Butterfly/"/>
+    <category term="博客搭建" scheme="http://blog.chuxyz.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="技术分享" scheme="http://blog.chuxyz.com/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    <id>http://blog.chuxyz.com/2026/03/01/welcome-to-alvisc-blog/</id>
+    <link href="http://blog.chuxyz.com/2026/03/01/welcome-to-alvisc-blog/"/>
+    <published>2026-02-28T16:00:00.000Z</published>
+    <summary>本文详细介绍本博客的技术架构、特色功能配置以及设计理念，带你了解这个基于Hexo和Butterfly主题搭建的个人技术博客。</summary>
+    <title>欢迎来到我的博客：技术栈与特色功能介绍</title>
+    <updated>2026-02-28T20:21:22.089Z</updated>
+  </entry>
+</feed>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2026/03/01/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr>
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>博客建设</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Butterfly</tag>
+        <tag>博客搭建</tag>
+        <tag>技术分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>欢迎来到我的博客：技术栈与特色功能介绍</title>
+    <url>/2026/03/01/welcome-to-alvisc-blog/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="🌟-开篇寄语"><a href="#🌟-开篇寄语" class="headerlink" title="🌟 开篇寄语"></a>🌟 开篇寄语</h2><p>你好，欢迎来到 <strong>AlvisC的博客</strong>！</p>
+<p>经过一段时间的精心搭建和配置，我的个人博客终于正式上线了。这里将记录我的技术学习历程、项目实践经验、生活思考感悟，以及一切值得分享的内容。</p>
+<p>作为博客的第一篇文章，我想带你深入了解这个网站的技术架构和特色功能，也算是对自己这段时间工作的一个总结。</p>
+<h2 id="🛠️-技术栈概览"><a href="#🛠️-技术栈概览" class="headerlink" title="🛠️ 技术栈概览"></a>🛠️ 技术栈概览</h2><h3 id="核心框架：Hexo-8-1-1"><a href="#核心框架：Hexo-8-1-1" class="headerlink" title="核心框架：Hexo 8.1.1"></a>核心框架：Hexo 8.1.1</h3><p>本博客基于 <strong><a href="https://hexo.io/">Hexo</a></strong> 静态网站生成器构建，这是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown 解析文章，生成静态网页，具有以下优势：</p>
+<ul>
+<li><strong>极速生成</strong>：数百篇文章可在几秒内完成生成</li>
+<li><strong>Markdown 支持</strong>：专注于写作，无需关心排版</li>
+<li><strong>丰富的插件生态</strong>：可通过插件扩展各种功能</li>
+<li><strong>部署简单</strong>：支持 GitHub Pages、Netlify 等多种部署方式</li>
+</ul>
+<h3 id="主题设计：Butterfly-5-5-4"><a href="#主题设计：Butterfly-5-5-4" class="headerlink" title="主题设计：Butterfly 5.5.4"></a>主题设计：Butterfly 5.5.4</h3><p>选择了 <strong><a href="https://butterfly.js.org/">Butterfly</a></strong> 作为博客主题，这是一个功能丰富、设计优雅的 Hexo 主题：</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 主题特色配置摘要</span></span><br><span class="line"><span class="string">主题版本:</span> <span class="string">Butterfly</span> <span class="string">v5.5.4</span></span><br><span class="line"><span class="string">设计风格:</span> <span class="string">现代化简洁设计</span></span><br><span class="line"><span class="string">响应式布局:</span> <span class="string">完美适配桌面端和移动端</span></span><br><span class="line"><span class="string">暗黑模式:</span> <span class="string">支持自动/手动切换</span></span><br><span class="line"><span class="string">多语言支持:</span> <span class="string">内置中英文界面</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="🎨-特色功能配置"><a href="#🎨-特色功能配置" class="headerlink" title="🎨 特色功能配置"></a>🎨 特色功能配置</h2><h3 id="1-智能搜索系统"><a href="#1-智能搜索系统" class="headerlink" title="1. 智能搜索系统"></a>1. 智能搜索系统</h3><p>博客集成了强大的搜索功能，支持多种搜索模式：</p>
+<ul>
+<li><strong>本地全文搜索</strong>：基于文章内容实时检索</li>
+<li><strong>关键词高亮</strong>：搜索结果中匹配关键词高亮显示</li>
+<li><strong>快速响应</strong>：搜索响应时间在毫秒级别</li>
+</ul>
+<h3 id="2-代码展示优化"><a href="#2-代码展示优化" class="headerlink" title="2. 代码展示优化"></a>2. 代码展示优化</h3><p>针对技术博客的特点，特别优化了代码展示体验：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 代码块支持多种主题和功能</span></span><br><span class="line"><span class="keyword">const</span> codeBlocks = &#123;</span><br><span class="line">  <span class="attr">theme</span>: <span class="string">&#x27;darker&#x27;</span>,      <span class="comment">// 深色主题，保护眼睛</span></span><br><span class="line">  <span class="attr">copyButton</span>: <span class="literal">true</span>,     <span class="comment">// 一键复制代码</span></span><br><span class="line">  <span class="attr">lineNumbers</span>: <span class="literal">true</span>,    <span class="comment">// 显示行号</span></span><br><span class="line">  <span class="attr">languageLabel</span>: <span class="literal">true</span>,  <span class="comment">// 显示编程语言标签</span></span><br><span class="line">  <span class="attr">heightLimit</span>: <span class="literal">false</span>    <span class="comment">// 无高度限制，完整显示</span></span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<h3 id="3-视觉特效增强"><a href="#3-视觉特效增强" class="headerlink" title="3. 视觉特效增强"></a>3. 视觉特效增强</h3><ul>
+<li><strong>动态背景效果</strong>：集成 Vanta.js 实现 WebGL 动态背景</li>
+<li><strong>毛玻璃效果</strong>：部分UI元素采用毛玻璃设计</li>
+<li><strong>平滑过渡动画</strong>：页面切换和交互元素都有平滑动画</li>
+</ul>
+<h3 id="4-多媒体支持"><a href="#4-多媒体支持" class="headerlink" title="4. 多媒体支持"></a>4. 多媒体支持</h3><ul>
+<li><strong>音乐播放器</strong>：通过 hexo-tag-aplayer 插件支持内嵌音乐</li>
+<li><strong>响应式图片</strong>：图片自适应屏幕大小，支持懒加载</li>
+<li><strong>视频嵌入</strong>：支持主流视频平台嵌入</li>
+</ul>
+<h3 id="5-用户体验优化"><a href="#5-用户体验优化" class="headerlink" title="5. 用户体验优化"></a>5. 用户体验优化</h3><ul>
+<li><strong>阅读模式</strong>：专注阅读，隐藏干扰元素</li>
+<li><strong>目录导航</strong>：文章自动生成目录，方便跳转</li>
+<li><strong>夜间模式</strong>：自动&#x2F;手动切换，保护视力</li>
+<li><strong>字体调整</strong>：支持系统字体和自定义字体</li>
+</ul>
+<h2 id="🔧-技术细节揭秘"><a href="#🔧-技术细节揭秘" class="headerlink" title="🔧 技术细节揭秘"></a>🔧 技术细节揭秘</h2><h3 id="配置文件架构"><a href="#配置文件架构" class="headerlink" title="配置文件架构"></a>配置文件架构</h3><p>博客的核心配置主要集中在两个文件中：</p>
+<ol>
+<li><strong><code>_config.yml</code></strong> - Hexo 主配置文件</li>
+<li><strong><code>_config.butterfly.yml</code></strong> - Butterfly 主题配置文件（超过1000行配置）</li>
+</ol>
+<h3 id="插件生态系统"><a href="#插件生态系统" class="headerlink" title="插件生态系统"></a>插件生态系统</h3><p>博客集成了多个实用插件：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 主要插件列表</span></span><br><span class="line">hexo-generator-searchdb     <span class="comment"># 本地搜索</span></span><br><span class="line">hexo-tag-aplayer           <span class="comment"># 音乐播放器</span></span><br><span class="line">hexo-butterfly-vanta       <span class="comment"># 动态背景效果</span></span><br><span class="line">hexo-wordcount             <span class="comment"># 字数统计</span></span><br><span class="line">hexo-deployer-git          <span class="comment"># Git部署</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="性能优化措施"><a href="#性能优化措施" class="headerlink" title="性能优化措施"></a>性能优化措施</h3><ul>
+<li><strong>图片压缩</strong>：所有图片都经过优化处理</li>
+<li><strong>CDN加速</strong>：静态资源使用CDN加速加载</li>
+<li><strong>代码压缩</strong>：HTML、CSS、JS文件都进行压缩</li>
+<li><strong>缓存策略</strong>：合理的浏览器缓存配置</li>
+</ul>
+<h2 id="📱-响应式设计"><a href="#📱-响应式设计" class="headerlink" title="📱 响应式设计"></a>📱 响应式设计</h2><p>博客采用完全响应式设计，在不同设备上都有良好的显示效果：</p>
+<table>
+<thead>
+<tr>
+<th>设备类型</th>
+<th>布局特点</th>
+<th>优化措施</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>桌面端</strong></td>
+<td>多栏布局，充分利用空间</td>
+<td>侧边栏显示完整功能</td>
+</tr>
+<tr>
+<td><strong>平板端</strong></td>
+<td>自适应单栏&#x2F;双栏切换</td>
+<td>字体大小适当调整</td>
+</tr>
+<tr>
+<td><strong>手机端</strong></td>
+<td>垂直单栏布局</td>
+<td>触摸友好的交互元素</td>
+</tr>
+</tbody></table>
+<h2 id="🚀-未来规划"><a href="#🚀-未来规划" class="headerlink" title="🚀 未来规划"></a>🚀 未来规划</h2><h3 id="短期计划"><a href="#短期计划" class="headerlink" title="短期计划"></a>短期计划</h3><ol>
+<li><strong>内容建设</strong>：持续输出高质量的技术文章</li>
+<li><strong>功能完善</strong>：添加更多实用小工具和交互功能</li>
+<li><strong>性能优化</strong>：进一步提升页面加载速度</li>
+</ol>
+<h3 id="长期愿景"><a href="#长期愿景" class="headerlink" title="长期愿景"></a>长期愿景</h3><ol>
+<li><strong>社区建设</strong>：建立技术交流社区</li>
+<li><strong>项目展示</strong>：展示个人项目和作品集</li>
+<li><strong>多语言支持</strong>：增加英文版本内容</li>
+</ol>
+<h2 id="💡-技术学习收获"><a href="#💡-技术学习收获" class="headerlink" title="💡 技术学习收获"></a>💡 技术学习收获</h2><p>通过搭建这个博客，我深入学习了：</p>
+<ul>
+<li><strong>静态网站架构</strong>：理解静态网站的优势和应用场景</li>
+<li><strong>前端技术栈</strong>：HTML、CSS、JavaScript的实践应用</li>
+<li><strong>性能优化</strong>：网站性能优化的各种方法和技巧</li>
+<li><strong>用户体验设计</strong>：如何设计用户友好的界面和交互</li>
+</ul>
+<h2 id="🤝-互动与交流"><a href="#🤝-互动与交流" class="headerlink" title="🤝 互动与交流"></a>🤝 互动与交流</h2><p>博客支持多种互动方式：</p>
+<ol>
+<li><strong>评论系统</strong>：每篇文章底部都可以留言评论</li>
+<li><strong>社交媒体</strong>：可以通过社交媒体关注我的最新动态</li>
+<li><strong>联系表单</strong>：未来的计划中添加联系方式</li>
+</ol>
+<h2 id="🎯-写作理念"><a href="#🎯-写作理念" class="headerlink" title="🎯 写作理念"></a>🎯 写作理念</h2><p>在这个博客中，我将坚持以下写作原则：</p>
+<ul>
+<li><strong>实用性</strong>：分享真正有用的技术知识和经验</li>
+<li><strong>可读性</strong>：用清晰易懂的语言解释复杂概念</li>
+<li><strong>系统性</strong>：构建完整的知识体系，而不是零散的点</li>
+<li><strong>更新性</strong>：定期更新和维护文章内容</li>
+</ul>
+<h2 id="📚-内容规划"><a href="#📚-内容规划" class="headerlink" title="📚 内容规划"></a>📚 内容规划</h2><p>博客内容将涵盖多个领域：</p>
+<ul>
+<li><strong>编程技术</strong>：前后端开发、算法、系统设计</li>
+<li><strong>工具分享</strong>：提高效率的开发工具和软件</li>
+<li><strong>学习笔记</strong>：技术学习过程中的总结和思考</li>
+<li><strong>项目实践</strong>：实际项目的开发经验和教训</li>
+</ul>
+<h2 id="🌈-结语"><a href="#🌈-结语" class="headerlink" title="🌈 结语"></a>🌈 结语</h2><p>技术博客不仅是一个记录和分享的平台，更是一个不断学习和成长的过程。我相信，通过持续的写作和分享，不仅能够帮助他人，也能让自己对知识的理解更加深刻。</p>
+<p>感谢你阅读这篇介绍文章，希望这个博客能为你带来有价值的内容。如果你对博客的某个功能或技术细节感兴趣，欢迎在评论区留言讨论。</p>
+<hr>
+<p><strong>最后更新</strong>：2026年3月1日<br><strong>下一篇预告</strong>：将分享Hexo博客的深度配置技巧和性能优化实践</p>
+<blockquote>
+<p>技术之路，永无止境。让我们一起学习，共同进步！</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>博客建设</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Butterfly</tag>
+        <tag>博客搭建</tag>
+        <tag>技术分享</tag>
+      </tags>
+  </entry>
+</search>
