@@ -1,8 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>post</title>
+    <title>我的第一篇文章</title>
     <url>/2026/03/09/post/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><blockquote>
+<p>Hello World！如果你正在阅读这篇文章，那么很可能你已经无意中闯进了这个刚刚搭建好的小站。按照惯例，第一篇文章似乎总该简单介绍一下自己，以及为什么会有这样一个网站。</p>
+</blockquote>
+<hr>
+<p>我只是一个普通的互联网用户，没有耀眼的头衔，也没有什么值得炫耀的背景。但我一直对计算机技术和互联网世界保持着浓厚的兴趣。</p>
+<p>从操作系统、网络配置，到各种软件工具的折腾和研究，我都乐在其中。很多时候，我喜欢自己动手去解决问题、理解原理，而不仅仅是使用现成的答案。</p>
+<p>在这个过程中，我也逐渐积累了一些经验，比如：</p>
+<ul>
+<li>Linux系统的使用和简单维护</li>
+<li>网络配置相关技术</li>
+<li>一些服务器和网站的搭建</li>
+<li>各种软件、工具和系统问题的排查</li>
+</ul>
+<p>虽然谈不上专业开发者，但折腾技术本身就是一件很有趣的事情。</p>
+<hr>
+<p>我搞这个网站，其实有几个很简单的原因。</p>
+<p>俗话说：好记性不如烂笔头。在学习和折腾技术的过程中，我经常会遇到各种问题，有时候需要查很多资料才能解决，而过了一段时间之后又会忘记。把这些东西写下来，不仅能帮助自己整理思路，也方便以后再次查阅。</p>
+<p>其次是分享。互联网曾经有一种很好的氛围，很多人把自己踩过的坑、学到的知识、总结的经验写成文章分享出来，让后来的人少走弯路。我也希望这个小站能延续这种精神，如果某一篇文章刚好帮助到了某个人，那它就更加有价值了。</p>
+<p>最后，也是一个表达和思考的空间，除了技术，未来这里也可能会记录一些想法、观察或者对世界的理解。</p>
+<hr>
+<h1 id="关于本站"><a href="#关于本站" class="headerlink" title="关于本站"></a>关于本站</h1><p>为什么选择Hexo+Butterfly？</p>
+<p>很多人搭建博客都会直接选择WordPress，这确实是一个非常成熟和强大的平台，不过我选择的是Hexo+Butterfly。</p>
+<p><img src="/img/2.jpg" alt="Hexo" title="Hexo"></p>
+<p>Hexo是一个静态博客生成器，文章写成Markdown之后，通过Hexo生成静态网页，然后部署到服务器或托管平台即可。相比WordPress这种动态网站，Hexo有资源占用低、不需要数据库、访问速度更快这些特点，对于一个个人博客来说，这样的架构其实已经足够了。</p>
+<p>Markdown写作体验很好，它语法简单、结构清晰，不需要像Word文档那样反复调整格式，可以把精力集中在内容本身，正好非常适合这种写作方式。</p>
+<p>Butterfly主题本身也非常漂亮，Hexo有很多主题，而Butterfly是我最喜欢的一个。它界面简洁、功能丰富、可定制性高，而且文档也比较完善，很适合我这种小白上手，对于一个喜欢折腾的人来说，这种可玩性其实挺有吸引力的。</p>
+<p>还有一个原因很简单，就是折腾本身就是乐趣，自己搭建的东西更有成就感。从环境配置、部署网站，到一点一点调整主题、修改配置，这个过程本身就是一件挺有意思的事情。</p>
+<p>未来，这里会分享一些计算机相关技术以及实用软件和工具，写一些技术笔记和踩坑记录，偶尔也可能写点随想。当然，这个网站本身也可能会随着时间不断变化。</p>
+<p>互联网很大，而这里只是其中一个很小的角落。如果你刚好路过这里，希望以后有些内容能对你有所帮助。</p>
+<hr>
+<blockquote>
+<p>这个博客刚刚开始，未来会慢慢更新。欢迎来到这里！</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>随想</category>
+      </categories>
+      <tags>
+        <tag>hello</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2026/03/01/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
 </search>
