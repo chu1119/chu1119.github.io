@@ -11,33 +11,33 @@
   <rights>All rights reserved 2026, AlvisC</rights>
   <subtitle>欢迎来到AlvisC的博客，这里记录了我的学习经历和生活经验。</subtitle>
   <title>AlvisC's Blog</title>
-  <updated>2026-03-09T16:04:39.699Z</updated>
+  <updated>2026-03-10T12:08:53.631Z</updated>
   <entry>
     <author>
       <name>AlvisC</name>
     </author>
     <category term="随想" scheme="http://blog.chuxyz.com/categories/%E9%9A%8F%E6%83%B3/"/>
     <category term="hello" scheme="http://blog.chuxyz.com/tags/hello/"/>
-    <id>http://blog.chuxyz.com/2026/03/09/post/</id>
-    <link href="http://blog.chuxyz.com/2026/03/09/post/"/>
+    <id>http://blog.chuxyz.com/posts/7a776471/</id>
+    <link href="http://blog.chuxyz.com/posts/7a776471/"/>
     <published>2026-03-09T08:46:30.000Z</published>
     <summary>
       <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js"]]>
     </summary>
     <title>我的第一篇文章</title>
-    <updated>2026-03-09T16:04:39.699Z</updated>
+    <updated>2026-03-10T12:08:53.631Z</updated>
   </entry>
   <entry>
     <author>
       <name>AlvisC</name>
     </author>
-    <id>http://blog.chuxyz.com/2026/03/01/hello-world/</id>
-    <link href="http://blog.chuxyz.com/2026/03/01/hello-world/"/>
+    <id>http://blog.chuxyz.com/posts/4a17b156/</id>
+    <link href="http://blog.chuxyz.com/posts/4a17b156/"/>
     <published>2026-03-01T03:37:04.000Z</published>
     <summary>
       <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js"]]>
     </summary>
     <title>Hello World</title>
-    <updated>2026-03-09T16:23:15.064Z</updated>
+    <updated>2026-03-10T12:08:53.629Z</updated>
   </entry>
 </feed>
